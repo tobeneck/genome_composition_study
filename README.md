@@ -1,4 +1,4 @@
-# Genome Study
+# Genome Composition Study
 
 This repository contains the code for the paper "Effects of Optimal Genetic Material in the Initial Population of Evolutionary Algorithms" presented at the 2023 IEEE Symposium Series on Computational Intelligence. For more information on the work, you can check out the [paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10372037).
 
@@ -16,9 +16,9 @@ Python version 3.9.6 was used for this repository.
 The t-ea pymoo implementation is required to run the code in this repository. This needs to be initialized after cloning the repository:
 ```bash
 git clone https://github.com/tobeneck/genome_composition_study.git
-cd genome_study
+cd genome_composition_study
 git submodule init
-git submuodule update
+git submodule update
 ```
 
 After this, the required packages can be installed from the *requirements.txt* file:
@@ -42,7 +42,7 @@ The output of the test data woll be saved to the *data* folder. It can be evalua
 ## Citation
 If you have used this work for research purposes, you can cite it with:
 
-T. Benecke and S. Mostaghim, "Effects of Optimal Genetic Material in the Initial Population of Evolutionary Algorithms," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1386-1391, [doi: 10.1109/SSCI52147.2023.10372037]{https://doi.org/10.1109/SSCI52147.2023.10372037}
+T. Benecke and S. Mostaghim, "Effects of Optimal Genetic Material in the Initial Population of Evolutionary Algorithms," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1386-1391, [doi: 10.1109/SSCI52147.2023.10372037](https://doi.org/10.1109/SSCI52147.2023.10372037)
 
 Bibtex:
 ```bibtex
